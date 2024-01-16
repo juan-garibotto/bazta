@@ -1,0 +1,13 @@
+<div class="index-resumen">
+        <p>RESUMEN</p>
+        </div>
+
+        <div class="index-procesos">
+        <img src="#">
+        <a href="./pages/procesos.html">PROCESOS</a>
+        </div> 
+        
+        <div class="index-nosotras">
+        <img src="#">
+        <a href="./pages/nosotras.html">NOSOTRAS</a>  
+        </div>
